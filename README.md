@@ -26,19 +26,13 @@ Cada exercício foi desenvolvido para auxiliar no entendimento prático desses c
 Este repositório está dividido em **3 listas de exercícios**, conforme os capítulos do livro:  
 
 - **LISTA-01**  
-  - Exercícios **1º ao 10º (Resolvidos)**  
-  - Exercícios **1º ao 5º (Propostos)**  
-  - **Capítulo 03 → Estrutura Sequencial**  
+   - **Capítulo 03 → Estrutura Sequencial**  
 
 - **LISTA-02**  
-  - Exercícios **1º ao 10º (Resolvidos)**  
-  - Exercícios **1º ao 5º (Propostos)**  
   - **Capítulo 04 → Estrutura Condicional**  
   - **Capítulo 05 → Estrutura de Repetição**  
 
 - **LISTA-03**  
-  - Exercícios **1º ao 10º (Resolvidos)**  
-  - **Capítulo 06 → Vetores**  
   - **Capítulo 08 → Sub-rotinas (funções e métodos)**  
 
 ---

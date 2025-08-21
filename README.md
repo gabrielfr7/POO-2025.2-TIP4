@@ -1,4 +1,3 @@
-# POO-2025.2-TIP4
 # Programação Orientada a Objetos (POO) em Java
 
 Este repositório contém exercícios e exemplos da disciplina de **Programação Orientada a Objetos (POO)**, desenvolvidos em **Java**.  
@@ -23,9 +22,9 @@ Cada exercício foi desenvolvido para auxiliar no entendimento prático desses c
 ---
 
 ## 👩‍💻 Membros da equipe
-- Gabriel Freire dos Anjos 
-- Antonio Max  
-- João Antonio  
+- [Gabriel Freire dos Anjos](https://github.com/gabrielfr7)
+- [Antônio Max Andrade Lima](https://github.com/maxlima13)
+- [João Antônio Moura Sousa](https://github.com/SrKkxz)
 
 ---
 

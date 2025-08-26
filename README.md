@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Programação Orientada a Objetos (POO) em Java  
+#  Programação Orientada a Objetos (POO) em Java  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50"/>

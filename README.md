@@ -2,8 +2,9 @@
 
 # ☕ Programação Orientada a Objetos (POO) em Java  
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
+
 
 Repositório da disciplina **Programação Orientada a Objetos (POO)**,  
 com exercícios desenvolvidos em **Java** no **Eclipse IDE**.  

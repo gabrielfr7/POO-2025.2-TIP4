@@ -37,7 +37,7 @@ As listas foram divididas conforme os capítulos do livro:
 |-------|-----------|----------|
 | **LISTA-01** | Cap. 03 | Estrutura Sequencial |
 | **LISTA-02** | Cap. 04 e 05 | Estrutura Condicional e Estrutura de Repetição |
-| **LISTA-03** | Cap. 08 | Sub-rotinas (Funções e Métodos) |
+| **LISTA-03** | Cap. 06 e 08|  Vetor e Sub-rotinas (Funções e Métodos) |
 
 ---
 

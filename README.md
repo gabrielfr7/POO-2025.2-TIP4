@@ -1,49 +1,56 @@
-# Programação Orientada a Objetos (POO) em Java  
+<div align="center">
 
-Este repositório contém exercícios e exemplos da disciplina de **Programação Orientada a Objetos (POO)**, desenvolvidos em **Java**.  
-As questões são baseadas nos capítulos do livro **Fundamentos da Programação de Computadores (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)**, de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.  
+# 🚀 Programação Orientada a Objetos (POO) em Java  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+📘 Repositório acadêmico da disciplina **POO**  
+Baseado no livro *Fundamentos da Programação de Computadores*  
+
+</div>
+
+---
+
+## 📑 Índice
+- [Descrição](#-descrição)
+- [Organização dos Exercícios](#-organização-dos-exercícios)
+- [Exemplo de Execução](#-exemplo-de-execução)
+- [Como Usar](#️-como-usar)
+- [Aprendizados](#-aprendizados)
+- [Membros da Equipe](#-membros-da-equipe)
+- [Linguagem e Ferramentas](#️-linguagem-e-ferramentas)
+- [Licença](#-licença)
 
 ---
 
 ## 📘 Descrição  
-O objetivo deste repositório é fornecer um ambiente organizado para resolver problemas utilizando os conceitos fundamentais de **Programação Orientada a Objetos (POO)**.  
-As atividades abrangem tópicos como:  
+Este repositório contém exercícios e exemplos desenvolvidos em **Java** com foco em **Programação Orientada a Objetos (POO)**.  
 
-- Estrutura de classes e objetos  
-- Atributos e métodos  
-- Encapsulamento  
-- Construtores  
-- Herança  
-- Polimorfismo  
-- Sobrecarga e sobrescrita de métodos  
-
-Cada exercício foi desenvolvido para auxiliar no entendimento prático desses conceitos, aplicando-os na resolução de problemas lógicos e matemáticos.  
+Os principais conceitos abordados são:  
+✔️ Estrutura de classes e objetos  
+✔️ Atributos e métodos  
+✔️ Encapsulamento  
+✔️ Construtores  
+✔️ Herança e Polimorfismo  
+✔️ Sobrecarga e sobrescrita de métodos  
 
 ---
 
 ## 📂 Organização dos Exercícios  
 
-Este repositório está dividido em **3 listas de exercícios**, conforme os capítulos do livro:  
+As listas foram divididas conforme os capítulos do livro:  
 
-- **LISTA-01**  
-   - **Capítulo 03 → Estrutura Sequencial**  
-
-- **LISTA-02**  
-  - **Capítulo 04 → Estrutura Condicional**  
-  - **Capítulo 05 → Estrutura de Repetição**  
-
-- **LISTA-03**  
-  - **Capítulo 08 → Sub-rotinas (funções e métodos)**  
+| Lista | Capítulos | Conteúdo |
+|-------|-----------|----------|
+| **LISTA-01** | Cap. 03 | Estrutura Sequencial |
+| **LISTA-02** | Cap. 04 e 05 | Estrutura Condicional e Repetição |
+| **LISTA-03** | Cap. 08 | Sub-rotinas (Funções e Métodos) |
 
 ---
 
-## 👩‍💻 Membros da Equipe  
-- [Gabriel Freire dos Anjos](https://github.com/gabrielfr7)  
-- [Antônio Max Andrade Lima](https://github.com/maxlima13)  
-- [João Antônio Moura Sousa](https://github.com/SrKkxz)  
+## ▶️ Exemplo de Execução
 
----
-
-## 🛠️ Linguagem e Ferramentas  
-- **Java**  
-- **Eclipse IDE** → Ambiente de desenvolvimento usado para criação e execução dos códigos  
+**Entrada:**

@@ -6,3 +6,11 @@
 | **4** | Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes. |
 | **5** |  Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes. |
 
+| ID | Enunciado da Questão dos Exercicios Propostos   |
+| :---: | :--- |
+| **1** |  |
+| **2** |  |
+| **3** |  |
+| **4** |  |
+| **5** |  |
+
